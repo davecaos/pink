@@ -31,7 +31,7 @@ You can launch your slides as a web server using this command launched
 from your presentation directory:
 
 ```sh
-$ pink run
+$ pink run slides.js
 ```
 
 Using the template project, this should get you a single slide
